@@ -7,8 +7,8 @@
 #### *CV in axemasquelin repository*
 
 ### Research Focus:
-  - (1) Application of Machine Learning Algorithm for Small Datasets
-  - (2) Early Detection of Lung Cancer using Deep Learning Application
-  - (3) Pulmonary and Critical Care
+  - (1) Application of Machine Learning Algorithm in Data-scarce domains.
+  - (2) Early Detection of Lung Cancer using Deep Learning Application.
+  - (3) Pulmonary and Critical Care.
  
 
