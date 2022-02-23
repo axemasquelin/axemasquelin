@@ -2,7 +2,10 @@
 # Axel Masquelin (He/Him)
 
 ### Introduction:
-#### I am a trained biomedical engineer focused on the utilization of machine learning and mathematical modeling to improve diagnostic outcomes for patients. My current work primarily explores the use of deep learning for early lung cancer detection. Specifically, we are interested in finding novel methodologies to improve the performance of deep neural network on data-scarce domains. In recent work, I utilized wavelet decompositions to reduce the number of examples needed for a deep learning algorithm to learn. Other areas of interest included differentiation between Tuberculosis and lung cancer nodule from CT and X-ray images, and the application of pharmacokinetics to model drug dispersion/absorption within pulmonary nodules. My work has allowed me to collaborate extensively with numerous other investigators within the Cellular, Molecular, and Biomedical Sciences (CMB), Complex System Center, and the College of Engineering and Mathematical Sciences (CEMS) at the University of Vermont.
+#### I am currently a NIH F31 Pre-Doctoral Fellow at the University of Vermont focused on advancing machine learning for early-lung cancer detection. Previously award a NIH T-32 pre-doctoral fellowship from the Vermont Lung Center. I have published on the application of discrete wavelet decomposition for convolutional neural networks (CNNs) to improve network generalizability and Sleep Apnea detection using artificial neural networks (ANNs).  
+
+In addition I act as a advisor and machine learning expert for Predictive Wear Inc. focusing on developing novel strategies to detect variability in physiological signals for continuous monitoring. Previously interned and contracted at Eli Lilly and Co. as an Automation Engineer. 
+
 
 #### [Curriculum Vitae](https://github.com/axemasquelin/axemasquelin/blob/main/AxelMasquelin_CV_Github.pdf)
 
