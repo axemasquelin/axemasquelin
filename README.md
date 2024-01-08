@@ -20,7 +20,7 @@ I hold a doctorate from the University of Vermont, where I was honored with pres
 
 #### GitHub Repositories:
 
-I invite you to explore my GitHub repositories. For comprehensive insights into my research findings, please refer to the manuscript branches corresponding to the publications.
+I invite you to explore my GitHub repositories. For comprehensive insights into my research findings, please refer to the manuscript branches corresponding to the publications.  
 Contact:
 
 For collaborations or inquiries, please feel free to reach out to me at amasquelin@bwh.harvard.edu.
