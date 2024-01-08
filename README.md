@@ -18,10 +18,6 @@ Current research revolves around amplifying the focus of Deep Neural Networks (D
 
 I hold a doctorate from the University of Vermont, where I was honored with prestigious NIH fellowships, including F31, T32, and F99. These fellowships were instrumental in advancing the classification accuracy of indeterminate pulmonary nodules. My overarching objective has been to mitigate patients' exposure to unnecessary invasive procedures and subsequent scans, thereby enhancing their quality of life.
 
-#### GitHub Repositories:
-
-I invite you to explore my GitHub repositories. For comprehensive insights into my research findings, please refer to the manuscript branches corresponding to the publications.  
-
 For collaborations or inquiries, contact me at:  amasquelin@bwh.harvard.edu.
 
 #### [Curriculum Vitae](https://github.com/axemasquelin/axemasquelin/blob/main/AxelMasquelin_CV_Github.pdf)
