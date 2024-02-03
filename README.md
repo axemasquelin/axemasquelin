@@ -12,7 +12,7 @@ Dedicated Radiology K00 Postdoctoral Fellow at Harvard Medical School/Brigham an
 
 #### Central Hypothesis:
 
-Current research revolves around amplifying the focus of Deep Neural Networks (DNN) on LDCT features acknowledged as clinically significant, in order to enhance the generalizability of the DNN to new images.  
+Current research revolves around amplifying the focus of Deep Neural Networks (DNN) on LDCT radiographic features acknowledged as being clinically relevant, in order to enhance the generalizability of a DNN to new images and improve network interpretability.  
 
 #### Academic Achievements:
 
