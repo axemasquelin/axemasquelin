@@ -3,7 +3,7 @@
 
 ### About Me:
 
-Dedicated Radiology K00 Postdoctoral Fellow at Harvard Medical School/Brigham and Women's Hospital, located in Boston, Massachusetts. My passion lies in pioneering research at the intersection of radiology, artificial intelligence, and precision medicine.
+Dedicated Radiology K00 Postdoctoral Fellow at Harvard Medical School/Brigham and Women's Hospital, located in Boston, Massachusetts. My passion lies in research at the intersection of radiology, artificial intelligence, and precision medicine.
 ### Research Focus:
 
   ___Machine Learning in Data-Scarce Domains:___ Leveraging advanced algorithms to address challenges in areas with limited data availability.  
