@@ -16,7 +16,7 @@ Current research revolves around amplifying the focus of Deep Neural Networks (D
 
 #### Academic Achievements:
 
-I hold a doctorate from the University of Vermont, where I was honored with prestigious NIH fellowships, including F31, T32, and F99. These fellowships were instrumental in advancing the classification accuracy of indeterminate pulmonary nodules. My overarching objective has been to mitigate patients' exposure to unnecessary invasive procedures and subsequent scans, thereby enhancing their quality of life.
+I hold a doctorate from the University of Vermont, where I was honored with NIH fellowships, including F31, T32, and F99. These fellowships were instrumental in advancing the classification accuracy of indeterminate pulmonary nodules. My overarching objective has been to mitigate patients' exposure to unnecessary invasive procedures and subsequent scans, thereby enhancing their quality of life.
 
 For collaborations or inquiries, contact me at:  amasquelin@bwh.harvard.edu.
 
